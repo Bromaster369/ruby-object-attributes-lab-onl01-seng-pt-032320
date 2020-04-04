@@ -1,12 +1,18 @@
 class Dog 
 
-  def name= ( ) 
-    
+  def initialize(name)
+    @name = name 
   end
   
   def name
-    this_persons_name
+    @name
+  end
   
+  def 
+    
   end
 
 end
+
+paloma = Dog.new("Paloma")
+paloma.name 
