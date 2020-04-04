@@ -12,5 +12,5 @@ class Dog
 end
 
 paloma = Dog.new("Paloma")
-paloma.name 
+puts paloma.name 
 
