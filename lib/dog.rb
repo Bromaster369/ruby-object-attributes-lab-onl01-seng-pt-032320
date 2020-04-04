@@ -15,8 +15,3 @@ class Dog
 
 end
 
-paloma = Dog.new("Paloma")
-paloma.name 
-
-paloma = Dog.breed("Golden Retriever")
-paloma.breed
